@@ -6,11 +6,15 @@ Creating a K-Means CLustering Algorithm to group Customers of a Retail store bas
 
 ## Tools 
 To implement the project we need some of the Python Libraries installed 
-• numpy
-• pandas 
+• Numpy
+ 
+• Pandas 
+
 • matplotlib
-• seaborn
-• scikit-learn 
+
+• Seaborn
+
+• Scikit-learn 
 
 
 ## Implementation
